@@ -17,3 +17,22 @@ body {
   padding-bottom: 150px;
 }
 
+.download-apps {
+  background: url("images/download-hero.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+/* Miscellaneous */
+
+.spotlight-image {
+  width: 200px;
+}
+
+.user-image {
+  width: 50px;
+}
+
+.store-badge {
+  width: 200px;
+}
+
